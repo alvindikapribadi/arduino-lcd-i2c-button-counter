@@ -110,7 +110,7 @@ You can expand this project by adding:
 
 Watch the full step-by-step tutorial on YouTube:
 
-👉 https://youtu.be/VwTvi0DNfMw
+[![Watch the video](https://img.youtube.com/vi/VwTvi0DNfMw/0.jpg)](https://youtu.be/VwTvi0DNfMw)
 
 In this video, you will see:
 
